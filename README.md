@@ -1,4 +1,6 @@
 #Web3 in flutter 
+```
+
   // NB: we're using ropsten test network
   late Client httpClient;
   late wb3.Web3Client web3client;
@@ -36,3 +38,5 @@
     });
     return response;
   }
+  ```
+
