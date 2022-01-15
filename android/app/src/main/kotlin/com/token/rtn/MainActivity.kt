@@ -1,0 +1,6 @@
+package com.token.rtn
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

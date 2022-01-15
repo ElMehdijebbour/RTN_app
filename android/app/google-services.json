@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288721231059",
+    "firebase_url": "https://rtnn-aad7f-default-rtdb.firebaseio.com",
+    "project_id": "rtnn-aad7f",
+    "storage_bucket": "rtnn-aad7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288721231059:android:753298757c53989f6ec826",
+        "android_client_info": {
+          "package_name": "com.token.rtn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288721231059-k5gdbeu4p1sps4l88m0jb4ccmd8i2ccl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFM67ji4IdRDD3e84IfD8JNtZSGGPmDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288721231059-k5gdbeu4p1sps4l88m0jb4ccmd8i2ccl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
